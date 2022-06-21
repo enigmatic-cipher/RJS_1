@@ -1,0 +1,12 @@
+button {
+	margin-right: 10px;
+}
+
+.app {
+  background-color: lightgrey;
+  width: 200px;
+	height: 250px;
+  border: 15px solid #000040;
+  padding: 50px;
+  margin: 20px;
+}
